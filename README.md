@@ -16,7 +16,7 @@ A shiny ball continuously bounces around the inside of a glass-like cube, reacti
 
 Built by Deividas Strole to explore Three.js scene setup, object animation, and simple collision detection.
 
-✨ Key Features
+✨ Key Features:
 
 - Realistic gravity-based bouncing physics
 - Elastic collisions with all six walls of the container
