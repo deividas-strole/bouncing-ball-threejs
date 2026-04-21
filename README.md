@@ -14,7 +14,7 @@ Here are some visual previews of similar bouncing ball physics simulations in Th
 
 A shiny ball continuously bounces around the inside of a glass-like cube, reacting to gravity and walls with realistic reflections and shadows. The scene includes dynamic lighting, camera orbit controls, and a clean, modern aesthetic — all running smoothly in the browser.
 
-Built by Deividas Strole to explore Three.js scene setup, object animation, and simple collision detection.
+Built by Deividas Strole to explore Three.js scene setup, object animation, and simple collision detection
 
 ✨ Key Features:
 
