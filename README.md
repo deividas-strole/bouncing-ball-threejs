@@ -2,7 +2,7 @@
 
 Bouncing Ball is a satisfying, real-time 3D physics demo built with **Three.js**. Created by Deividas Strole, this project features a colorful ball bouncing inside a transparent box with realistic gravity, elastic collisions, and smooth lighting effects.
 
-Perfect as a fun showcase of Three.js capabilities, basic physics simulation, and interactive 3D web graphics.
+Perfect as a fun showcase of Three.js capabilities, basic physics simulation, and interactive 3D web graphics;
 
 Live Demo: [https://deividas-strole.github.io/bouncing-ball-threejs](https://deividas-strole.github.io/bouncing-ball-threejs)
 
